@@ -13,10 +13,27 @@ Products and Tools
 * http://mobilehtml5.org/
 
 Reading
-* http://www.tricedesigns.com/2013/03/11/performance-ux-considerations-for-successful-phonegap-apps/
 * http://martinfowler.com/articles/multiMobile/
 * http://phonegap.com/blog/2013/04/23/story-behind-exfm
 * http://www.businessinsider.com/html5-vs-native-apps-for-mobile-2013-6?op=1
+
+HTML5 features and support:
+* http://diveintohtml5.info/
+* http://www.html5rocks.com/
+* http://appcachefacts.info/
+* http://html5test.com/results/mobile.html
+* http://mobilehtml5.org
+* http://developer.apple.com/support/appstore/
+* http://developer.android.com/about/dashboards/index.html
+
+Performance on the Mobile Web:
+* http://www.tricedesigns.com/2013/03/11/performance-ux-considerations-for-successful-phonegap-apps/
+* http://www.html5rocks.com/en/tutorials/speed/html5/
+* http://standardista.com/velocity/
+* http://mir.aculo.us/dom-monster/
+* http://slidesha.re/1cw02ZM
+* http://bit.ly/mobile-barrier
+* http://ftlabs.github.io/fastclick/
 
 Mobile Sites
 * http://app.ft.com
