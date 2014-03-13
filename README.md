@@ -42,3 +42,6 @@ Mobile Sites
 
 Mobile Apps
 * Exfm
+
+Other
+* there's a gem for that: https://github.com/joscas/phonegap-rails
