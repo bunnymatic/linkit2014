@@ -37,6 +37,7 @@ Performance on the Mobile Web:
 
 Mobile Sites
 * http://app.ft.com
+* http://forecast.io/
 * http://isthisanearthquake.com
 
 Mobile Apps
