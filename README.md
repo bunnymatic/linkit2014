@@ -28,6 +28,7 @@ HTML5 features and support:
 
 Performance on the Mobile Web:
 * http://www.tricedesigns.com/2013/03/11/performance-ux-considerations-for-successful-phonegap-apps/
+* http://www.sencha.com/blog/the-making-of-fastbook-an-html5-love-story/
 * http://www.html5rocks.com/en/tutorials/speed/html5/
 * http://standardista.com/velocity/
 * http://mir.aculo.us/dom-monster/
