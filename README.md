@@ -32,7 +32,7 @@ Performance on the Mobile Web:
 * http://www.html5rocks.com/en/tutorials/speed/html5/
 * http://standardista.com/velocity/
 * http://mir.aculo.us/dom-monster/
-* http://slidesha.re/1cw02ZM
+* http://www.slideshare.net/ariyahidayat/understanding-hardware-acceleration-on-mobile-browsers-13463369
 * http://bit.ly/mobile-barrier
 * http://ftlabs.github.io/fastclick/
 
