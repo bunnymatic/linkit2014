@@ -34,6 +34,7 @@ Performance on the Mobile Web:
 * http://mir.aculo.us/dom-monster/
 * http://www.slideshare.net/ariyahidayat/understanding-hardware-acceleration-on-mobile-browsers-13463369
 * http://bit.ly/mobile-barrier
+* http://aerotwist.com/blog/making-a-60fps-mobile-app/
 * http://ftlabs.github.io/fastclick/
 
 Mobile Sites
