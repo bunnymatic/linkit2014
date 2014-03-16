@@ -39,7 +39,7 @@ Performance on the Mobile Web:
 
 Mobile Sites
 * http://app.ft.com
-* http://forecast.io/
+* http://forecast.io/ (and http://blog.forecast.io/its-not-a-web-app-its-an-app-you-install-from-the-web/)
 * http://isthisanearthquake.com
 
 Mobile Apps
